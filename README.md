@@ -1,4 +1,5 @@
 # Exploratory-Data-Analysis-on-Ultramarathon-Race-Data-using-Python
+![alt text](https://github.com/myselfadib/Exploratory-Data-Analysis-on-Ultramarathon-Race-Data-using-Python/blob/main/EDA.png)
 This repository features a comprehensive exploratory data analysis (EDA) on ultramarathon race statistics. Utilizing a dataset with over 7 million entries from Kaggle, this project delves into performance trends, demographic influences, and seasonal impacts on race outcomes. The analysis employs advanced data manipulation and visualization techniques using Python’s Pandas and Seaborn libraries within a Jupyter Notebook.
 
 ## Dataset
